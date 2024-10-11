@@ -1,0 +1,11 @@
+body.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70vh;
+    height: 100vh;
+    background-color: rgb(104, 165, 104);
+}
+
+
+
